@@ -1,0 +1,52 @@
+#home {
+    background-color: orange;
+}
+#o_mnie {
+    background-color: rgb(131, 223, 131);
+}
+#kontakt {
+    background-color: rgb(131, 223, 131);
+}
+#copyright {
+    background-color: rgb(203, 197, 197);
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.box{
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0px;
+}
+nav ul li {
+    border: 1px solid black;
+    margin-top: 5px;
+    width: 70px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+nav ul li:hover {
+    color: aliceblue;
+    background-color: blue;
+}
+nav ul li a {
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color: white;
+}
